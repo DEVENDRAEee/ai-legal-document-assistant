@@ -1,0 +1,454 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}FAQ - AI Legal Document Assistant{% endblock %}
+
+{% block content %}
+<div class="container mt-5 pt-4">
+    <div class="row">
+        <div class="col-lg-10 mx-auto">
+            <div class="text-center mb-5">
+                <h1 class="display-4 fw-bold text-primary mb-3">
+                    <i class="fas fa-question-circle me-3"></i>Frequently Asked Questions
+                </h1>
+                <p class="lead text-muted">
+                    Find answers to common questions about the AI Legal Document Assistant
+                </p>
+            </div>
+            
+            <!-- Search FAQ -->
+            <div class="card shadow-sm mb-4">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <input type="text" class="form-control form-control-lg" id="faqSearch" placeholder="Search FAQ...">
+                        </div>
+                        <div class="col-md-4">
+                            <button class="btn btn-primary btn-lg w-100" onclick="searchFAQ()">
+                                <i class="fas fa-search me-2"></i>Search
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- FAQ Categories -->
+            <div class="row mb-4">
+                <div class="col-md-3">
+                    <div class="list-group">
+                        <a href="#general" class="list-group-item list-group-item-action active" data-category="general">
+                            <i class="fas fa-info-circle me-2"></i>General
+                        </a>
+                        <a href="#technical" class="list-group-item list-group-item-action" data-category="technical">
+                            <i class="fas fa-cogs me-2"></i>Technical
+                        </a>
+                        <a href="#security" class="list-group-item list-group-item-action" data-category="security">
+                            <i class="fas fa-shield-alt me-2"></i>Security
+                        </a>
+                        <a href="#installation" class="list-group-item list-group-item-action" data-category="installation">
+                            <i class="fas fa-download me-2"></i>Installation
+                        </a>
+                        <a href="#features" class="list-group-item list-group-item-action" data-category="features">
+                            <i class="fas fa-star me-2"></i>Features
+                        </a>
+                        <a href="#troubleshooting" class="list-group-item list-group-item-action" data-category="troubleshooting">
+                            <i class="fas fa-wrench me-2"></i>Troubleshooting
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="col-md-9">
+                    <!-- General Questions -->
+                    <div id="general" class="faq-category">
+                        <h3 class="text-primary mb-4">
+                            <i class="fas fa-info-circle me-2"></i>General Questions
+                        </h3>
+                        
+                        <div class="accordion" id="generalAccordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#general1">
+                                        What is the AI Legal Document Assistant?
+                                    </button>
+                                </h2>
+                                <div id="general1" class="accordion-collapse collapse show">
+                                    <div class="accordion-body">
+                                        The AI Legal Document Assistant is a web application that helps legal professionals, students, and the public understand complex legal documents using artificial intelligence. It automatically summarizes documents, extracts key legal terms, finds relevant constitutional articles and IPC sections, and provides comprehensive legal analysis.
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#general2">
+                                        Who can use this application?
+                                    </button>
+                                </h2>
+                                <div id="general2" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        <ul>
+                                            <li>Legal professionals (lawyers, paralegals, legal researchers)</li>
+                                            <li>Law students and academics</li>
+                                            <li>General public seeking to understand legal documents</li>
+                                            <li>Legal departments in organizations</li>
+                                            <li>Anyone dealing with legal documents</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#general3">
+                                        Is this application free to use?
+                                    </button>
+                                </h2>
+                                <div id="general3" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        Yes, the application is open-source and free to use. It's licensed under the MIT License, which allows for both personal and commercial use.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Technical Questions -->
+                    <div id="technical" class="faq-category" style="display: none;">
+                        <h3 class="text-primary mb-4">
+                            <i class="fas fa-cogs me-2"></i>Technical Questions
+                        </h3>
+                        
+                        <div class="accordion" id="technicalAccordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#technical1">
+                                        What file formats are supported?
+                                    </button>
+                                </h2>
+                                <div id="technical1" class="accordion-collapse collapse show">
+                                    <div class="accordion-body">
+                                        The application supports the following file formats:
+                                        <ul>
+                                            <li><strong>PDF</strong> (.pdf) - Most common legal document format</li>
+                                            <li><strong>Word Documents</strong> (.docx) - Microsoft Word documents</li>
+                                            <li><strong>Images</strong> (.jpg, .png) - Scanned documents (using OCR)</li>
+                                            <li><strong>Text Files</strong> (.txt) - Plain text documents</li>
+                                        </ul>
+                                        The maximum file size is <strong>10MB</strong> per document.
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#technical2">
+                                        How accurate is the AI analysis?
+                                    </button>
+                                </h2>
+                                <div id="technical2" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        The AI analysis uses state-of-the-art models including:
+                                        <ul>
+                                            <li><strong>Facebook BART</strong> for summarization</li>
+                                            <li><strong>Sentence Transformers</strong> for semantic search</li>
+                                            <li><strong>Rule-based methods</strong> for keyword extraction</li>
+                                        </ul>
+                                        While highly accurate, the results should always be reviewed by qualified legal professionals for important legal matters.
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#technical3">
+                                        How long does document processing take?
+                                    </button>
+                                </h2>
+                                <div id="technical3" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        Processing time depends on document size and complexity:
+                                        <ul>
+                                            <li><strong>Small documents</strong> (< 1MB): 10-30 seconds</li>
+                                            <li><strong>Medium documents</strong> (1-5MB): 30-60 seconds</li>
+                                            <li><strong>Large documents</strong> (5-10MB): 1-3 minutes</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Security Questions -->
+                    <div id="security" class="faq-category" style="display: none;">
+                        <h3 class="text-primary mb-4">
+                            <i class="fas fa-shield-alt me-2"></i>Security & Privacy
+                        </h3>
+                        
+                        <div class="accordion" id="securityAccordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#security1">
+                                        Is my data secure?
+                                    </button>
+                                </h2>
+                                <div id="security1" class="accordion-collapse collapse show">
+                                    <div class="accordion-body">
+                                        Yes, we take data security seriously:
+                                        <ul>
+                                            <li>All documents are encrypted during upload and storage</li>
+                                            <li>User authentication is required for all protected features</li>
+                                            <li>Data is not shared with third parties</li>
+                                            <li>Regular security updates are applied</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#security2">
+                                        Where are my documents stored?
+                                    </button>
+                                </h2>
+                                <div id="security2" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        Documents are stored securely on the server:
+                                        <ul>
+                                            <li><strong>Development</strong>: Local file system</li>
+                                            <li><strong>Production</strong>: Secure cloud storage (AWS S3, etc.)</li>
+                                            <li>Documents are automatically deleted after a specified period (configurable)</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Installation Questions -->
+                    <div id="installation" class="faq-category" style="display: none;">
+                        <h3 class="text-primary mb-4">
+                            <i class="fas fa-download me-2"></i>Installation & Setup
+                        </h3>
+                        
+                        <div class="accordion" id="installationAccordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#installation1">
+                                        What are the system requirements?
+                                    </button>
+                                </h2>
+                                <div id="installation1" class="accordion-collapse collapse show">
+                                    <div class="accordion-body">
+                                        <strong>Minimum Requirements:</strong>
+                                        <ul>
+                                            <li>Python 3.8 or higher</li>
+                                            <li>4GB RAM</li>
+                                            <li>2GB free disk space</li>
+                                            <li>Internet connection for AI model downloads</li>
+                                        </ul>
+                                        <strong>Recommended Requirements:</strong>
+                                        <ul>
+                                            <li>Python 3.11</li>
+                                            <li>8GB RAM</li>
+                                            <li>10GB free disk space</li>
+                                            <li>Stable internet connection</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#installation2">
+                                        How do I install the application?
+                                    </button>
+                                </h2>
+                                <div id="installation2" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        <strong>Quick Setup:</strong>
+                                        <pre><code>git clone &lt;repository-url&gt;
+cd ai-legal-document-assistant
+python -m venv venv
+venv\Scripts\activate  # Windows
+pip install -r requirements.txt
+python startup.py</code></pre>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Features Questions -->
+                    <div id="features" class="faq-category" style="display: none;">
+                        <h3 class="text-primary mb-4">
+                            <i class="fas fa-star me-2"></i>Features & Functionality
+                        </h3>
+                        
+                        <div class="accordion" id="featuresAccordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#features1">
+                                        What types of legal analysis are provided?
+                                    </button>
+                                </h2>
+                                <div id="features1" class="accordion-collapse collapse show">
+                                    <div class="accordion-body">
+                                        <ul>
+                                            <li><strong>Document Summary</strong>: Concise overview of the document</li>
+                                            <li><strong>Keyword Extraction</strong>: Key legal terms and concepts</li>
+                                            <li><strong>Constitutional References</strong>: Relevant articles from the Constitution of India</li>
+                                            <li><strong>IPC Sections</strong>: Applicable sections from the Indian Penal Code</li>
+                                            <li><strong>Legal Analysis</strong>: Comprehensive analysis combining all findings</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#features2">
+                                        Can I export my results?
+                                    </button>
+                                </h2>
+                                <div id="features2" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        Yes, you can export results in two formats:
+                                        <ul>
+                                            <li><strong>PDF</strong>: Professional formatted report</li>
+                                            <li><strong>DOCX</strong>: Editable Word document</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Troubleshooting Questions -->
+                    <div id="troubleshooting" class="faq-category" style="display: none;">
+                        <h3 class="text-primary mb-4">
+                            <i class="fas fa-wrench me-2"></i>Troubleshooting
+                        </h3>
+                        
+                        <div class="accordion" id="troubleshootingAccordion">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#troubleshooting1">
+                                        The application won't start. What should I do?
+                                    </button>
+                                </h2>
+                                <div id="troubleshooting1" class="accordion-collapse collapse show">
+                                    <div class="accordion-body">
+                                        <ol>
+                                            <li>Check Python version: <code>python --version</code></li>
+                                            <li>Verify virtual environment is activated</li>
+                                            <li>Check dependencies: <code>pip list</code></li>
+                                            <li>Look at error messages in the console</li>
+                                            <li>Try running: <code>python test_installation.py</code></li>
+                                        </ol>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#troubleshooting2">
+                                        Document processing is taking too long. What's wrong?
+                                    </button>
+                                </h2>
+                                <div id="troubleshooting2" class="accordion-collapse collapse">
+                                    <div class="accordion-body">
+                                        <ul>
+                                            <li>Check document size (should be < 10MB)</li>
+                                            <li>Verify internet connection (needed for AI models)</li>
+                                            <li>Check server resources (CPU, memory)</li>
+                                            <li>Try with a smaller document first</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Contact Section -->
+            <div class="card shadow-sm mt-5">
+                <div class="card-body text-center">
+                    <h4 class="text-primary mb-3">Still have questions?</h4>
+                    <p class="text-muted mb-4">Can't find what you're looking for? We're here to help!</p>
+                    <div class="d-flex justify-content-center gap-3">
+                        <a href="{% url 'documents:contact' %}" class="btn btn-primary">
+                            <i class="fas fa-envelope me-2"></i>Contact Us
+                        </a>
+                        <a href="{% url 'documents:home' %}" class="btn btn-outline-primary">
+                            <i class="fas fa-home me-2"></i>Back to Home
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // FAQ Category Navigation
+    const categoryLinks = document.querySelectorAll('[data-category]');
+    const categories = document.querySelectorAll('.faq-category');
+    
+    categoryLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            // Remove active class from all links
+            categoryLinks.forEach(l => l.classList.remove('active'));
+            // Add active class to clicked link
+            this.classList.add('active');
+            
+            // Hide all categories
+            categories.forEach(cat => cat.style.display = 'none');
+            // Show selected category
+            const targetCategory = this.getAttribute('data-category');
+            document.getElementById(targetCategory).style.display = 'block';
+        });
+    });
+    
+    // FAQ Search
+    window.searchFAQ = function() {
+        const searchTerm = document.getElementById('faqSearch').value.toLowerCase();
+        const accordionItems = document.querySelectorAll('.accordion-item');
+        
+        accordionItems.forEach(item => {
+            const question = item.querySelector('.accordion-button').textContent.toLowerCase();
+            const answer = item.querySelector('.accordion-body').textContent.toLowerCase();
+            
+            if (question.includes(searchTerm) || answer.includes(searchTerm)) {
+                item.style.display = 'block';
+                // Highlight search term
+                if (searchTerm) {
+                    const regex = new RegExp(`(${searchTerm})`, 'gi');
+                    const highlightedQuestion = question.replace(regex, '<mark>$1</mark>');
+                    const highlightedAnswer = answer.replace(regex, '<mark>$1</mark>');
+                    // Note: This is a simple implementation. For production, use a proper highlighting library
+                }
+            } else {
+                item.style.display = 'none';
+            }
+        });
+    };
+    
+    // Search on Enter key
+    document.getElementById('faqSearch').addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+            searchFAQ();
+        }
+    });
+});
+</script>
+{% endblock %}
+
+
+
+

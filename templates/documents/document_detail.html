@@ -1,0 +1,217 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}{{ document.title }} - AI Legal Document Assistant{% endblock %}
+
+{% block content %}
+<div class="container mt-5 pt-4">
+    <div class="row">
+        <div class="col-lg-10 mx-auto">
+            <!-- Document Header -->
+            <div class="card shadow-sm mb-4">
+                <div class="card-header bg-primary text-white">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h3 class="card-title mb-0">
+                            <i class="fas fa-file-alt me-2"></i>{{ document.title }}
+                        </h3>
+                        <div class="btn-group">
+                            <a href="{% url 'documents:download' document.pk 'pdf' %}" class="btn btn-light btn-sm">
+                                <i class="fas fa-file-pdf me-1"></i>PDF
+                            </a>
+                            <a href="{% url 'documents:download' document.pk 'docx' %}" class="btn btn-light btn-sm">
+                                <i class="fas fa-file-word me-1"></i>DOCX
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p class="mb-1"><strong>File Type:</strong> {{ document.file_type|upper }}</p>
+                            <p class="mb-1"><strong>File Size:</strong> {{ document.file_size }} MB</p>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="mb-1"><strong>Uploaded:</strong> {{ document.uploaded_at|date:"M d, Y H:i" }}</p>
+                            <p class="mb-0"><strong>Status:</strong> 
+                                {% if document.is_processed %}
+                                    <span class="badge bg-success">Processed</span>
+                                {% else %}
+                                    <span class="badge bg-warning">Processing</span>
+                                {% endif %}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            {% if document.is_processed %}
+            <!-- Summary Section -->
+            <div class="card shadow-sm mb-4">
+                <div class="card-header">
+                    <h4 class="card-title mb-0">
+                        <i class="fas fa-compress-alt me-2"></i>AI Summary
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <div class="summary-content">
+                        {{ document.summary|linebreaks }}
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Keywords Section -->
+            {% if document.keywords %}
+            <div class="card shadow-sm mb-4">
+                <div class="card-header">
+                    <h4 class="card-title mb-0">
+                        <i class="fas fa-tags me-2"></i>Extracted Keywords
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <div class="keywords-container">
+                        {% for keyword in document.keywords %}
+                        <span class="badge bg-primary me-2 mb-2">{{ keyword }}</span>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            
+            <!-- Constitutional References -->
+            {% if document.constitutional_references %}
+            <div class="card shadow-sm mb-4">
+                <div class="card-header">
+                    <h4 class="card-title mb-0">
+                        <i class="fas fa-book me-2"></i>Constitutional References
+                    </h4>
+                </div>
+                <div class="card-body">
+                    {% for ref in document.constitutional_references %}
+                    <div class="constitutional-ref mb-3">
+                        {% if ref.article %}
+                        <h6 class="text-primary">{{ ref.article }}</h6>
+                        {% endif %}
+                        <p class="mb-2">{{ ref.text }}</p>
+                        <small class="text-muted">Relevance Score: {{ ref.score|floatformat:2 }}</small>
+                    </div>
+                    {% if not forloop.last %}<hr>{% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+            
+            <!-- IPC Sections -->
+            {% if document.ipc_sections %}
+            <div class="card shadow-sm mb-4">
+                <div class="card-header">
+                    <h4 class="card-title mb-0">
+                        <i class="fas fa-gavel me-2"></i>Relevant IPC Sections
+                    </h4>
+                </div>
+                <div class="card-body">
+                    {% for section in document.ipc_sections %}
+                    <div class="ipc-section mb-3">
+                        <h6 class="text-primary">Section {{ section.section }}</h6>
+                        <p class="mb-2">{{ section.description }}</p>
+                        {% if section.punishment %}
+                        <p class="mb-2"><strong>Punishment:</strong> {{ section.punishment }}</p>
+                        {% endif %}
+                        <small class="text-muted">Relevance Score: {{ section.score|floatformat:2 }}</small>
+                    </div>
+                    {% if not forloop.last %}<hr>{% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+            
+            <!-- Legal Analysis -->
+            {% if document.legal_analysis %}
+            <div class="card shadow-sm mb-4">
+                <div class="card-header">
+                    <h4 class="card-title mb-0">
+                        <i class="fas fa-balance-scale me-2"></i>Legal Analysis
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <div class="legal-analysis">
+                        {{ document.legal_analysis|linebreaks }}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            
+            <!-- Original Text (Collapsible) -->
+            <div class="card shadow-sm mb-4">
+                <div class="card-header">
+                    <button class="btn btn-link p-0 text-decoration-none" type="button" data-bs-toggle="collapse" data-bs-target="#originalText">
+                        <h4 class="card-title mb-0">
+                            <i class="fas fa-file-text me-2"></i>Original Text
+                            <i class="fas fa-chevron-down ms-2"></i>
+                        </h4>
+                    </button>
+                </div>
+                <div class="collapse" id="originalText">
+                    <div class="card-body">
+                        <div class="original-text-content">
+                            {{ document.extracted_text|linebreaks }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            {% else %}
+            <!-- Processing Status -->
+            <div class="card shadow-sm mb-4">
+                <div class="card-body text-center py-5">
+                    <div class="spinner-border text-primary mb-3" role="status">
+                        <span class="visually-hidden">Processing...</span>
+                    </div>
+                    <h5>Processing Document</h5>
+                    <p class="text-muted">Your document is being analyzed. This may take a few moments.</p>
+                    {% if document.processing_error %}
+                    <div class="alert alert-danger mt-3">
+                        <strong>Processing Error:</strong> {{ document.processing_error }}
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+            
+            <!-- Action Buttons -->
+            <div class="text-center mb-4">
+                <a href="{% url 'documents:history' %}" class="btn btn-outline-primary me-2">
+                    <i class="fas fa-history me-2"></i>Back to History
+                </a>
+                <a href="{% url 'documents:upload' %}" class="btn btn-primary">
+                    <i class="fas fa-plus me-2"></i>Upload Another Document
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Auto-refresh if document is not processed
+    {% if not document.is_processed %}
+    setTimeout(function() {
+        location.reload();
+    }, 5000);
+    {% endif %}
+    
+    // Smooth scroll for collapsible sections
+    document.querySelectorAll('[data-bs-toggle="collapse"]').forEach(function(element) {
+        element.addEventListener('click', function() {
+            const icon = this.querySelector('.fa-chevron-down');
+            if (icon) {
+                icon.classList.toggle('fa-chevron-down');
+                icon.classList.toggle('fa-chevron-up');
+            }
+        });
+    });
+});
+</script>
+{% endblock %}
+

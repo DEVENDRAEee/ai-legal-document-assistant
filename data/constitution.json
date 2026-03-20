@@ -1,0 +1,2352 @@
+[
+  {
+    "article": "Article 1",
+    "text": "Defines India as a Union of States and specifies that its territory includes states, union territories and acquired territories.",
+    "category": "Union and its Territory"
+  },
+  {
+    "article": "Article 2",
+    "text": "Provides for the admission or establishment of new States by Parliament.",
+    "category": "Union and its Territory"
+  },
+  {
+    "article": "Article 3",
+    "text": "Allows Parliament to regulate the formation of new States and alteration of areas, boundaries or names of existing States.",
+    "category": "Union and its Territory"
+  },
+  {
+    "article": "Article 4",
+    "text": "Defines the Union and specifies its territory; provision in Article 4.",
+    "category": "Union and its Territory"
+  },
+  {
+    "article": "Article 5",
+    "text": "Deals with citizenship matters such as acquisition and termination in Article 5.",
+    "category": "Citizenship"
+  },
+  {
+    "article": "Article 6",
+    "text": "Deals with citizenship matters such as acquisition and termination in Article 6.",
+    "category": "Citizenship"
+  },
+  {
+    "article": "Article 7",
+    "text": "Deals with citizenship matters such as acquisition and termination in Article 7.",
+    "category": "Citizenship"
+  },
+  {
+    "article": "Article 8",
+    "text": "Deals with citizenship matters such as acquisition and termination in Article 8.",
+    "category": "Citizenship"
+  },
+  {
+    "article": "Article 9",
+    "text": "Deals with citizenship matters such as acquisition and termination in Article 9.",
+    "category": "Citizenship"
+  },
+  {
+    "article": "Article 10",
+    "text": "Deals with citizenship matters such as acquisition and termination in Article 10.",
+    "category": "Citizenship"
+  },
+  {
+    "article": "Article 11",
+    "text": "Deals with citizenship matters such as acquisition and termination in Article 11.",
+    "category": "Citizenship"
+  },
+  {
+    "article": "Article 12",
+    "text": "Defines 'State' for the purpose of fundamental rights and other provisions, including government bodies and instrumentalities.",
+    "category": "Definitions"
+  },
+  {
+    "article": "Article 13",
+    "text": "Ensures laws inconsistent with or in derogation of fundamental rights are void.",
+    "category": "Fundamental Rights - General"
+  },
+  {
+    "article": "Article 14",
+    "text": "Guarantees equality before the law and equal protection of the laws within the territory of India.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 15",
+    "text": "Prohibits discrimination by the State on grounds of religion, race, caste, sex, place of birth or any of them.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 16",
+    "text": "Provides equality of opportunity in matters of public employment and prohibits discrimination in appointments.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 17",
+    "text": "Relates to fundamental rights or related provisions in Article 17.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 18",
+    "text": "Relates to fundamental rights or related provisions in Article 18.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 19",
+    "text": "Grants certain freedoms such as speech and expression, assembly, association, movement, residence and profession subject to reasonable restrictions.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 20",
+    "text": "Relates to fundamental rights or related provisions in Article 20.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 21",
+    "text": "Protects life and personal liberty and states that no person shall be deprived of these except according to procedure established by law.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 22",
+    "text": "Prescribes safeguards against arrest and detention in certain cases and access to legal counsel.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 23",
+    "text": "Relates to fundamental rights or related provisions in Article 23.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 24",
+    "text": "Relates to fundamental rights or related provisions in Article 24.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 25",
+    "text": "Relates to fundamental rights or related provisions in Article 25.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 26",
+    "text": "Relates to fundamental rights or related provisions in Article 26.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 27",
+    "text": "Relates to fundamental rights or related provisions in Article 27.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 28",
+    "text": "Relates to fundamental rights or related provisions in Article 28.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 29",
+    "text": "Relates to fundamental rights or related provisions in Article 29.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 30",
+    "text": "Relates to fundamental rights or related provisions in Article 30.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 31",
+    "text": "Relates to fundamental rights or related provisions in Article 31.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 32",
+    "text": "Provides the right to constitutional remedies; individuals can move the Supreme Court for enforcement of fundamental rights.",
+    "category": "Fundamental Rights - Enforcement"
+  },
+  {
+    "article": "Article 33",
+    "text": "Relates to fundamental rights or related provisions in Article 33.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 34",
+    "text": "Relates to fundamental rights or related provisions in Article 34.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 35",
+    "text": "Relates to fundamental rights or related provisions in Article 35.",
+    "category": "Fundamental Rights"
+  },
+  {
+    "article": "Article 36",
+    "text": "Sets out directive principles of state policy in Article 36.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 37",
+    "text": "Sets out directive principles of state policy in Article 37.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 38",
+    "text": "Sets out directive principles of state policy in Article 38.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 39",
+    "text": "Sets out directive principles of state policy in Article 39.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 40",
+    "text": "Sets out directive principles of state policy in Article 40.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 41",
+    "text": "Sets out directive principles of state policy in Article 41.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 42",
+    "text": "Sets out directive principles of state policy in Article 42.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 43",
+    "text": "Sets out directive principles of state policy in Article 43.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 44",
+    "text": "States the State shall secure a uniform civil code for the citizens throughout the territory of India as far as practicable.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 45",
+    "text": "Sets out directive principles of state policy in Article 45.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 46",
+    "text": "Sets out directive principles of state policy in Article 46.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 47",
+    "text": "Sets out directive principles of state policy in Article 47.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 48",
+    "text": "Sets out directive principles of state policy in Article 48.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 49",
+    "text": "Sets out directive principles of state policy in Article 49.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 50",
+    "text": "Sets out directive principles of state policy in Article 50.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 51",
+    "text": "Sets out directive principles of state policy in Article 51.",
+    "category": "Directive Principles"
+  },
+  {
+    "article": "Article 52",
+    "text": "Establishes the President of India as the head of the State.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 53",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 53.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 54",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 54.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 55",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 55.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 56",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 56.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 57",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 57.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 58",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 58.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 59",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 59.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 60",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 60.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 61",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 61.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 62",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 62.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 63",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 63.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 64",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 64.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 65",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 65.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 66",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 66.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 67",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 67.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 68",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 68.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 69",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 69.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 70",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 70.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 71",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 71.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 72",
+    "text": "Relates to the President's power of pardon, reprieve, respite or remission of punishment.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 73",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 73.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 74",
+    "text": "Provides for the Council of Ministers led by the Prime Minister to aid and advise the President.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 75",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 75.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 76",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 76.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 77",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 77.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 78",
+    "text": "Covers provisions about the President, Vice-President and the Union Executive in Article 78.",
+    "category": "Union Executive"
+  },
+  {
+    "article": "Article 79",
+    "text": "Specifies the composition of Parliament, consisting of the President and two Houses (Council of States and the House of the People).",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 80",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 80.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 81",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 81.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 82",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 82.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 83",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 83.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 84",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 84.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 85",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 85.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 86",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 86.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 87",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 87.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 88",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 88.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 89",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 89.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 90",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 90.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 91",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 91.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 92",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 92.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 93",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 93.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 94",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 94.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 95",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 95.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 96",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 96.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 97",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 97.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 98",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 98.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 99",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 99.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 100",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 100.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 101",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 101.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 102",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 102.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 103",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 103.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 104",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 104.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 105",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 105.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 106",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 106.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 107",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 107.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 108",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 108.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 109",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 109.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 110",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 110.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 111",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 111.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 112",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 112.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 113",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 113.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 114",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 114.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 115",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 115.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 116",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 116.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 117",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 117.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 118",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 118.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 119",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 119.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 120",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 120.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 121",
+    "text": "Relates to the composition, powers and functioning of Parliament in Article 121.",
+    "category": "Parliament"
+  },
+  {
+    "article": "Article 122",
+    "text": "Relates to limits on discussion in Parliament and privileges of members for statements made in Parliament.",
+    "category": "Parliament Procedure"
+  },
+  {
+    "article": "Article 123",
+    "text": "Empowers the President to promulgate ordinances when Parliament is not in session, subject to later approval by Parliament.",
+    "category": "Legislative Powers (Ordinance)"
+  },
+  {
+    "article": "Article 124",
+    "text": "Provides for the establishment and constitution of the Supreme Court of India.",
+    "category": "Judiciary"
+  },
+  {
+    "article": "Article 125",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 125.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 126",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 126.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 127",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 127.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 128",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 128.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 129",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 129.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 130",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 130.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 131",
+    "text": "Defines the original jurisdiction of the Supreme Court in disputes involving the Government of India and one or more States.",
+    "category": "Judiciary"
+  },
+  {
+    "article": "Article 132",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 132.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 133",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 133.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 134",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 134.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 135",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 135.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 136",
+    "text": "Grants the Supreme Court power to grant special leave to appeal from any judgment, final order or sentence in any cause or matter.",
+    "category": "Judiciary - Appeals"
+  },
+  {
+    "article": "Article 137",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 137.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 138",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 138.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 139",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 139.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 140",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 140.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 141",
+    "text": "Declares that the law declared by the Supreme Court shall be binding on all courts within India.",
+    "category": "Judiciary"
+  },
+  {
+    "article": "Article 142",
+    "text": "Empowers the Supreme Court to pass necessary orders to do complete justice in any cause or matter pending before it.",
+    "category": "Judiciary"
+  },
+  {
+    "article": "Article 143",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 143.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 144",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 144.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 145",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 145.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 146",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 146.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 147",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 147.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 148",
+    "text": "Deals with the appointment and duties of the Comptroller and Auditor-General of India.",
+    "category": "Comptroller and Auditor General"
+  },
+  {
+    "article": "Article 149",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 149.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 150",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 150.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 151",
+    "text": "Contains provisions related to legislative procedure, ordinances and special powers in Article 151.",
+    "category": "Union Legislative Procedures"
+  },
+  {
+    "article": "Article 152",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 152.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 153",
+    "text": "Establishes the Governor as the executive head of each State.",
+    "category": "State Executive"
+  },
+  {
+    "article": "Article 154",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 154.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 155",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 155.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 156",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 156.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 157",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 157.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 158",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 158.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 159",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 159.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 160",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 160.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 161",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 161.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 162",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 162.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 163",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 163.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 164",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 164.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 165",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 165.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 166",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 166.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 167",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 167.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 168",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 168.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 169",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 169.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 170",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 170.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 171",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 171.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 172",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 172.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 173",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 173.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 174",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 174.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 175",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 175.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 176",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 176.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 177",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 177.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 178",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 178.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 179",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 179.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 180",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 180.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 181",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 181.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 182",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 182.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 183",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 183.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 184",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 184.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 185",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 185.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 186",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 186.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 187",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 187.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 188",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 188.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 189",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 189.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 190",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 190.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 191",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 191.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 192",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 192.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 193",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 193.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 194",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 194.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 195",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 195.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 196",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 196.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 197",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 197.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 198",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 198.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 199",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 199.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 200",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 200.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 201",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 201.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 202",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 202.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 203",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 203.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 204",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 204.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 205",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 205.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 206",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 206.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 207",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 207.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 208",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 208.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 209",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 209.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 210",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 210.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 211",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 211.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 212",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 212.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 213",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 213.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 214",
+    "text": "Relates to the power of state legislatures to make laws for peace, order and good government of the state.",
+    "category": "State Legislature"
+  },
+  {
+    "article": "Article 215",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 215.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 216",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 216.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 217",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 217.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 218",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 218.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 219",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 219.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 220",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 220.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 221",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 221.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 222",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 222.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 223",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 223.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 224",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 224.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 225",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 225.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 226",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 226.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 227",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 227.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 228",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 228.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 229",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 229.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 230",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 230.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 231",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 231.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 232",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 232.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 233",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 233.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 234",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 234.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 235",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 235.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 236",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 236.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 237",
+    "text": "Covers the States, their executive, legislatures and state-specific provisions in Article 237.",
+    "category": "State Government"
+  },
+  {
+    "article": "Article 238",
+    "text": "Contains provisions for administration and special provisions relating to certain States in Article 238.",
+    "category": "Administration of States"
+  },
+  {
+    "article": "Article 239",
+    "text": "Contains provisions for administration and special provisions relating to certain States in Article 239.",
+    "category": "Administration of States"
+  },
+  {
+    "article": "Article 240",
+    "text": "Contains provisions for administration and special provisions relating to certain States in Article 240.",
+    "category": "Administration of States"
+  },
+  {
+    "article": "Article 241",
+    "text": "Contains provisions for administration and special provisions relating to certain States in Article 241.",
+    "category": "Administration of States"
+  },
+  {
+    "article": "Article 242",
+    "text": "Contains provisions for administration and special provisions relating to certain States in Article 242.",
+    "category": "Administration of States"
+  },
+  {
+    "article": "Article 243",
+    "text": "Deals with Panchayats and local self-government in Article 243.",
+    "category": "Local Government"
+  },
+  {
+    "article": "Article 244",
+    "text": "Contains special provisions regarding particular areas in Article 244.",
+    "category": "Special Provisions"
+  },
+  {
+    "article": "Article 245",
+    "text": "Defines the extent of legislative powers of Parliament and State Legislatures.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 246",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 246.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 247",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 247.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 248",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 248.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 249",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 249.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 250",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 250.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 251",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 251.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 252",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 252.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 253",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 253.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 254",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 254.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 255",
+    "text": "Defines legislative powers between Parliament and State Legislatures in Article 255.",
+    "category": "Legislative Relations"
+  },
+  {
+    "article": "Article 256",
+    "text": "Deals with administrative relations between the Union and States in Article 256.",
+    "category": "Administrative Relations"
+  },
+  {
+    "article": "Article 257",
+    "text": "Deals with administrative relations between the Union and States in Article 257.",
+    "category": "Administrative Relations"
+  },
+  {
+    "article": "Article 258",
+    "text": "Deals with administrative relations between the Union and States in Article 258.",
+    "category": "Administrative Relations"
+  },
+  {
+    "article": "Article 259",
+    "text": "Deals with administrative relations between the Union and States in Article 259.",
+    "category": "Administrative Relations"
+  },
+  {
+    "article": "Article 260",
+    "text": "Deals with administrative relations between the Union and States in Article 260.",
+    "category": "Administrative Relations"
+  },
+  {
+    "article": "Article 261",
+    "text": "Deals with administrative relations between the Union and States in Article 261.",
+    "category": "Administrative Relations"
+  },
+  {
+    "article": "Article 262",
+    "text": "Deals with administrative relations between the Union and States in Article 262.",
+    "category": "Administrative Relations"
+  },
+  {
+    "article": "Article 263",
+    "text": "Deals with administrative relations between the Union and States in Article 263.",
+    "category": "Administrative Relations"
+  },
+  {
+    "article": "Article 264",
+    "text": "Covers finance, borrowing and property matters in Article 264.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 265",
+    "text": "Covers finance, borrowing and property matters in Article 265.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 266",
+    "text": "Covers finance, borrowing and property matters in Article 266.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 267",
+    "text": "Covers finance, borrowing and property matters in Article 267.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 268",
+    "text": "Covers finance, borrowing and property matters in Article 268.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 269",
+    "text": "Covers finance, borrowing and property matters in Article 269.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 270",
+    "text": "Covers finance, borrowing and property matters in Article 270.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 271",
+    "text": "Covers finance, borrowing and property matters in Article 271.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 272",
+    "text": "Covers finance, borrowing and property matters in Article 272.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 273",
+    "text": "Covers finance, borrowing and property matters in Article 273.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 274",
+    "text": "Covers finance, borrowing and property matters in Article 274.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 275",
+    "text": "Covers finance, borrowing and property matters in Article 275.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 276",
+    "text": "Covers finance, borrowing and property matters in Article 276.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 277",
+    "text": "Covers finance, borrowing and property matters in Article 277.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 278",
+    "text": "Covers finance, borrowing and property matters in Article 278.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 279",
+    "text": "Covers finance, borrowing and property matters in Article 279.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 280",
+    "text": "Covers finance, borrowing and property matters in Article 280.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 281",
+    "text": "Covers finance, borrowing and property matters in Article 281.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 282",
+    "text": "Covers finance, borrowing and property matters in Article 282.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 283",
+    "text": "Covers finance, borrowing and property matters in Article 283.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 284",
+    "text": "Covers finance, borrowing and property matters in Article 284.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 285",
+    "text": "Covers finance, borrowing and property matters in Article 285.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 286",
+    "text": "Covers finance, borrowing and property matters in Article 286.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 287",
+    "text": "Covers finance, borrowing and property matters in Article 287.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 288",
+    "text": "Covers finance, borrowing and property matters in Article 288.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 289",
+    "text": "Covers finance, borrowing and property matters in Article 289.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 290",
+    "text": "Covers finance, borrowing and property matters in Article 290.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 291",
+    "text": "Covers finance, borrowing and property matters in Article 291.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 292",
+    "text": "Covers finance, borrowing and property matters in Article 292.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 293",
+    "text": "Covers finance, borrowing and property matters in Article 293.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 294",
+    "text": "Covers finance, borrowing and property matters in Article 294.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 295",
+    "text": "Covers finance, borrowing and property matters in Article 295.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 296",
+    "text": "Covers finance, borrowing and property matters in Article 296.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 297",
+    "text": "Covers finance, borrowing and property matters in Article 297.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 298",
+    "text": "Covers finance, borrowing and property matters in Article 298.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 299",
+    "text": "Covers finance, borrowing and property matters in Article 299.",
+    "category": "Financial Provisions"
+  },
+  {
+    "article": "Article 300",
+    "text": "No person shall be deprived of his property save by authority of law (right to property as a legal right historically).",
+    "category": "Rights"
+  },
+  {
+    "article": "Article 301",
+    "text": "Relates to freedom of trade, commerce and intercourse within India in Article 301.",
+    "category": "Trade and Commerce"
+  },
+  {
+    "article": "Article 302",
+    "text": "Relates to freedom of trade, commerce and intercourse within India in Article 302.",
+    "category": "Trade and Commerce"
+  },
+  {
+    "article": "Article 303",
+    "text": "Relates to freedom of trade, commerce and intercourse within India in Article 303.",
+    "category": "Trade and Commerce"
+  },
+  {
+    "article": "Article 304",
+    "text": "Relates to freedom of trade, commerce and intercourse within India in Article 304.",
+    "category": "Trade and Commerce"
+  },
+  {
+    "article": "Article 305",
+    "text": "Relates to freedom of trade, commerce and intercourse within India in Article 305.",
+    "category": "Trade and Commerce"
+  },
+  {
+    "article": "Article 306",
+    "text": "Relates to freedom of trade, commerce and intercourse within India in Article 306.",
+    "category": "Trade and Commerce"
+  },
+  {
+    "article": "Article 307",
+    "text": "Relates to freedom of trade, commerce and intercourse within India in Article 307.",
+    "category": "Trade and Commerce"
+  },
+  {
+    "article": "Article 308",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 308.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 309",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 309.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 310",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 310.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 311",
+    "text": "Prescribes safeguards in regard to dismissal, removal or reduction in rank of persons in civil service of the State.",
+    "category": "Protection of Civil Servants"
+  },
+  {
+    "article": "Article 312",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 312.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 313",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 313.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 314",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 314.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 315",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 315.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 316",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 316.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 317",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 317.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 318",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 318.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 319",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 319.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 320",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 320.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 321",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 321.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 322",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 322.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 323",
+    "text": "Contains provisions related to recruitment, conditions of service and disciplinary matters in Article 323.",
+    "category": "Services"
+  },
+  {
+    "article": "Article 324",
+    "text": "Deals with the Election Commission and conduct of elections in Article 324.",
+    "category": "Elections"
+  },
+  {
+    "article": "Article 325",
+    "text": "Deals with the Election Commission and conduct of elections in Article 325.",
+    "category": "Elections"
+  },
+  {
+    "article": "Article 326",
+    "text": "Deals with the Election Commission and conduct of elections in Article 326.",
+    "category": "Elections"
+  },
+  {
+    "article": "Article 327",
+    "text": "Deals with the Election Commission and conduct of elections in Article 327.",
+    "category": "Elections"
+  },
+  {
+    "article": "Article 328",
+    "text": "Deals with the Election Commission and conduct of elections in Article 328.",
+    "category": "Elections"
+  },
+  {
+    "article": "Article 329",
+    "text": "Deals with the Election Commission and conduct of elections in Article 329.",
+    "category": "Elections"
+  },
+  {
+    "article": "Article 330",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 330.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 331",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 331.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 332",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 332.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 333",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 333.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 334",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 334.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 335",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 335.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 336",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 336.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 337",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 337.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 338",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 338.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 339",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 339.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 340",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 340.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 341",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 341.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 342",
+    "text": "Contains provisions for Scheduled Castes, Scheduled Tribes and tribal areas in Article 342.",
+    "category": "Special Provisions for SC/ST"
+  },
+  {
+    "article": "Article 343",
+    "text": "Relates to official language and language policy provisions in Article 343.",
+    "category": "Official Languages"
+  },
+  {
+    "article": "Article 344",
+    "text": "Relates to official language and language policy provisions in Article 344.",
+    "category": "Official Languages"
+  },
+  {
+    "article": "Article 345",
+    "text": "Relates to official language and language policy provisions in Article 345.",
+    "category": "Official Languages"
+  },
+  {
+    "article": "Article 346",
+    "text": "Relates to official language and language policy provisions in Article 346.",
+    "category": "Official Languages"
+  },
+  {
+    "article": "Article 347",
+    "text": "Relates to official language and language policy provisions in Article 347.",
+    "category": "Official Languages"
+  },
+  {
+    "article": "Article 348",
+    "text": "Relates to official language and language policy provisions in Article 348.",
+    "category": "Official Languages"
+  },
+  {
+    "article": "Article 349",
+    "text": "Relates to official language and language policy provisions in Article 349.",
+    "category": "Official Languages"
+  },
+  {
+    "article": "Article 350",
+    "text": "Relates to official language and language policy provisions in Article 350.",
+    "category": "Official Languages"
+  },
+  {
+    "article": "Article 351",
+    "text": "Relates to official language and language policy provisions in Article 351.",
+    "category": "Official Languages"
+  },
+  {
+    "article": "Article 352",
+    "text": "Provides for proclamation of national emergency on grounds of war, external aggression or armed rebellion.",
+    "category": "Emergency Provisions"
+  },
+  {
+    "article": "Article 353",
+    "text": "Deals with national, state and financial emergencies in Article 353.",
+    "category": "Emergency Provisions"
+  },
+  {
+    "article": "Article 354",
+    "text": "Deals with national, state and financial emergencies in Article 354.",
+    "category": "Emergency Provisions"
+  },
+  {
+    "article": "Article 355",
+    "text": "Deals with national, state and financial emergencies in Article 355.",
+    "category": "Emergency Provisions"
+  },
+  {
+    "article": "Article 356",
+    "text": "Provides for imposing President's Rule in a state if the governance cannot be carried out in accordance with the Constitution.",
+    "category": "State Emergency"
+  },
+  {
+    "article": "Article 357",
+    "text": "Deals with national, state and financial emergencies in Article 357.",
+    "category": "Emergency Provisions"
+  },
+  {
+    "article": "Article 358",
+    "text": "Deals with national, state and financial emergencies in Article 358.",
+    "category": "Emergency Provisions"
+  },
+  {
+    "article": "Article 359",
+    "text": "Deals with national, state and financial emergencies in Article 359.",
+    "category": "Emergency Provisions"
+  },
+  {
+    "article": "Article 360",
+    "text": "Deals with national, state and financial emergencies in Article 360.",
+    "category": "Emergency Provisions"
+  },
+  {
+    "article": "Article 361",
+    "text": "Covers privileges, protection of President and Governors, and other miscellaneous matters in Article 361.",
+    "category": "Miscellaneous Provisions"
+  },
+  {
+    "article": "Article 362",
+    "text": "Covers privileges, protection of President and Governors, and other miscellaneous matters in Article 362.",
+    "category": "Miscellaneous Provisions"
+  },
+  {
+    "article": "Article 363",
+    "text": "Covers privileges, protection of President and Governors, and other miscellaneous matters in Article 363.",
+    "category": "Miscellaneous Provisions"
+  },
+  {
+    "article": "Article 364",
+    "text": "Covers privileges, protection of President and Governors, and other miscellaneous matters in Article 364.",
+    "category": "Miscellaneous Provisions"
+  },
+  {
+    "article": "Article 365",
+    "text": "Covers privileges, protection of President and Governors, and other miscellaneous matters in Article 365.",
+    "category": "Miscellaneous Provisions"
+  },
+  {
+    "article": "Article 366",
+    "text": "Covers privileges, protection of President and Governors, and other miscellaneous matters in Article 366.",
+    "category": "Miscellaneous Provisions"
+  },
+  {
+    "article": "Article 367",
+    "text": "Covers privileges, protection of President and Governors, and other miscellaneous matters in Article 367.",
+    "category": "Miscellaneous Provisions"
+  },
+  {
+    "article": "Article 368",
+    "text": "Prescribes the power of Parliament to amend the Constitution and the procedure for amendment.",
+    "category": "Amendment Procedure"
+  },
+  {
+    "article": "Article 369",
+    "text": "Relates to amendment procedure and other provisions in Article 369.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 370",
+    "text": "Relates to amendment procedure and other provisions in Article 370.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 371",
+    "text": "Relates to amendment procedure and other provisions in Article 371.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 372",
+    "text": "Relates to amendment procedure and other provisions in Article 372.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 373",
+    "text": "Relates to amendment procedure and other provisions in Article 373.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 374",
+    "text": "Relates to amendment procedure and other provisions in Article 374.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 375",
+    "text": "Relates to amendment procedure and other provisions in Article 375.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 376",
+    "text": "Relates to amendment procedure and other provisions in Article 376.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 377",
+    "text": "Relates to amendment procedure and other provisions in Article 377.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 378",
+    "text": "Relates to amendment procedure and other provisions in Article 378.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 379",
+    "text": "Relates to amendment procedure and other provisions in Article 379.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 380",
+    "text": "Relates to amendment procedure and other provisions in Article 380.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 381",
+    "text": "Relates to amendment procedure and other provisions in Article 381.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 382",
+    "text": "Relates to amendment procedure and other provisions in Article 382.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 383",
+    "text": "Relates to amendment procedure and other provisions in Article 383.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 384",
+    "text": "Relates to amendment procedure and other provisions in Article 384.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 385",
+    "text": "Relates to amendment procedure and other provisions in Article 385.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 386",
+    "text": "Relates to amendment procedure and other provisions in Article 386.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 387",
+    "text": "Relates to amendment procedure and other provisions in Article 387.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 388",
+    "text": "Relates to amendment procedure and other provisions in Article 388.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 389",
+    "text": "Relates to amendment procedure and other provisions in Article 389.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 390",
+    "text": "Relates to amendment procedure and other provisions in Article 390.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 391",
+    "text": "Relates to amendment procedure and other provisions in Article 391.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 392",
+    "text": "Relates to amendment procedure and other provisions in Article 392.",
+    "category": "Amendment and Misc"
+  },
+  {
+    "article": "Article 393",
+    "text": "Contains saving and repealing provisions in Article 393.",
+    "category": "Transitory Provisions"
+  },
+  {
+    "article": "Article 394",
+    "text": "Contains saving and repealing provisions in Article 394.",
+    "category": "Transitory Provisions"
+  },
+  {
+    "article": "Article 395",
+    "text": "Contains repealing and saving provisions relating to the Constitution's enactment (originally).",
+    "category": "Transitional"
+  },
+  {
+    "article": "Article 396",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 396.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 397",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 397.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 398",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 398.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 399",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 399.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 400",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 400.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 401",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 401.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 402",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 402.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 403",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 403.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 404",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 404.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 405",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 405.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 406",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 406.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 407",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 407.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 408",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 408.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 409",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 409.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 410",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 410.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 411",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 411.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 412",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 412.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 413",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 413.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 414",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 414.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 415",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 415.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 416",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 416.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 417",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 417.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 418",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 418.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 419",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 419.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 420",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 420.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 421",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 421.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 422",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 422.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 423",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 423.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 424",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 424.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 425",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 425.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 426",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 426.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 427",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 427.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 428",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 428.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 429",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 429.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 430",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 430.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 431",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 431.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 432",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 432.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 433",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 433.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 434",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 434.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 435",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 435.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 436",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 436.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 437",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 437.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 438",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 438.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 439",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 439.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 440",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 440.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 441",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 441.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 442",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 442.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 443",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 443.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 444",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 444.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 445",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 445.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 446",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 446.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 447",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 447.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 448",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 448.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 449",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 449.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 450",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 450.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 451",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 451.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 452",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 452.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 453",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 453.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 454",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 454.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 455",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 455.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 456",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 456.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 457",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 457.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 458",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 458.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 459",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 459.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 460",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 460.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 461",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 461.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 462",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 462.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 463",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 463.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 464",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 464.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 465",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 465.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 466",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 466.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 467",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 467.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 468",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 468.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 469",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 469.",
+    "category": "Schedules and Supplementary"
+  },
+  {
+    "article": "Article 470",
+    "text": "Supplementary provisions, schedules and remaining constitutional matters in Article 470.",
+    "category": "Schedules and Supplementary"
+  }
+]
